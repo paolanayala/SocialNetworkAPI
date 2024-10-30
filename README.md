@@ -39,7 +39,7 @@ To get the development environment running, follow these steps:
 
 ## Usage
 
-    Use Insomnia or Postman to test the API routes.
+  Use Insomnia or Postman to test the API routes.
   **GET Routes:** Access user and thought data.
   **POST Routes:** Create new users, thoughts, and reactions.
   **PUT Routes:** Update existing users and thoughts.
@@ -47,3 +47,5 @@ To get the development environment running, follow these steps:
 
 
 This project deepened my understanding of building RESTful APIs, managing a NoSQL database, and implementing user authentication and data validation using Mongoose. Additionally, I gained valuable experience in handling API requests and responses effectively.
+
+Video Walkthrough here.
